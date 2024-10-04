@@ -1,0 +1,31 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    padding: 5px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.card1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+
+}
+.card3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
